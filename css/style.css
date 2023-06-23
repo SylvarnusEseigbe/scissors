@@ -94,7 +94,7 @@ main{
 /* Navigation start */
 
 .hero_section{
-    padding: 0 8px; 
+    padding: 12px 8px 0 8px; 
     background-color:hsla(352,0%,100%,1);
     background-image:
     radial-gradient(at 37% 55%, hsla(66,95%,42%,0.16) 0px, transparent 50%),
@@ -103,10 +103,6 @@ main{
     background-repeat: no-repeat;   
 }
 
-
-header{
-    margin-top: 12px;
-}
 
 nav{
     max-width: 1150px;
